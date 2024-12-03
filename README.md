@@ -10,6 +10,11 @@ BudgetMaster is a simple, easy-to-use personal finance management tool designed 
 - [Installation](#installation)
 - [Contribution](#contribution)
 
+## Contributors
+1. Ameen Siddiqui
+2. [Johann](https://github.com/JohannC05)
+3. Omar Abdulla Alzaabi
+
 ## Introduction
 **BudgetMaster™** is a Java-based command-line application that acts as a personal finance manager. Whether you want to log transactions, set budget limits, or track your progress toward financial goals, BudgetMaster™ provides a simple interface to help you manage your finances in an organized way.
 
